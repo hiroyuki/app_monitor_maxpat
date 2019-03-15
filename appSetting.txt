@@ -1,0 +1,5 @@
+5, 100;
+1, C:/Users/Public/Documents/of_v0.10.1_vs2017_release/apps/myApps/emptyExample/bin/emptyExample_debug.exe;
+4, 1;
+2, 19;
+3, 1;

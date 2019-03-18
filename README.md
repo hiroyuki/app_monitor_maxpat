@@ -1,7 +1,7 @@
 app_monitor_maxpat
 ==================
 
-simple live monitoring in OSX by Max5
+simple process monitoring by ps:MacOS | TASKLIST:Windows10.
 
 #dependencies
 [shell](http://cycling74.com/toolbox/bernstein-shell/)  object
